@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23" height="23" viewBox="0 0 23 23">
+  <defs>
+    <filter id="Rectangle_2405" x="0" y="0" width="23" height="23" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_10300" data-name="Group 10300" transform="translate(-99.5 -319.5)">
+    <g transform="matrix(1, 0, 0, 1, 99.5, 319.5)" filter="url(#Rectangle_2405)">
+      <rect id="Rectangle_2405-2" data-name="Rectangle 2405" width="20" height="20" rx="1" transform="translate(1.5 1.5)" fill="#f1f1f1"/>
+    </g>
+    <g id="Group_7271" data-name="Group 7271" transform="translate(14)">
+      <g id="Ellipse_26" data-name="Ellipse 26" transform="translate(96 326)" fill="#fff" stroke="#000" stroke-width="1">
+        <circle cx="1" cy="1" r="1" stroke="none"/>
+        <circle cx="1" cy="1" r="0.5" fill="none"/>
+      </g>
+      <g id="Ellipse_27" data-name="Ellipse 27" transform="translate(96 330)" fill="#fff" stroke="#000" stroke-width="1">
+        <circle cx="1" cy="1" r="1" stroke="none"/>
+        <circle cx="1" cy="1" r="0.5" fill="none"/>
+      </g>
+      <g id="Ellipse_28" data-name="Ellipse 28" transform="translate(96 334)" fill="#fff" stroke="#000" stroke-width="1">
+        <circle cx="1" cy="1" r="1" stroke="none"/>
+        <circle cx="1" cy="1" r="0.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
